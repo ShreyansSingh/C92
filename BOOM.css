@@ -1,0 +1,27 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+ .th {
+height: 90px;
+width: 131px;
+border-radius: 33px;
+}
+body{
+background-image: linear-gradient(to right top, #81f4fc, #9e94fa, #f086fa);}
+.logo
+{
+	width: 139px;margin-top: 80px;border-radius: 20px;
+}
+.login_div
+{
+  background-image: linear-gradient( pink, lavender);
+  float: none;
+  border-radius: 10px;
+}
+#login_button
+{
+ background-color:  rgb(245, 189, 245);
+}
+
